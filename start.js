@@ -5,13 +5,13 @@
 ░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
 
 
-* @project_name PRABATHMD
-* @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/prabathLK>
+* @project_name MR ZAIN 
+* @authors MR ZAIN team <https://github.com/WA.ME/923146856009>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATHMD>
+* @link <https://wa.me/923146856009
 * @version 2.1.3
 
-© 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
+© 2023 MR ZAIN  All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
